@@ -1,0 +1,263 @@
+*{
+    font-family: "Roboto", sans-serif;
+}
+
+main{
+    width: 1920px;
+}
+
+body{
+    width: 100vw;
+    margin: 0;
+}
+
+.firstScreen{
+    height: 700px;
+    background-color: #EEEFF1;
+    padding-top: 79px;
+    padding-left: 399px;
+}
+
+p{
+margin: 0;
+}
+
+.navMenu{
+    display: flex;
+    gap: 42px;
+}
+
+.navMenu-item{
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px; 
+}
+
+.navMenu-item:hover {
+    color: #34547A;
+}
+
+.random{
+    display: inline-block;
+    margin-top: 162px;
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 78px;
+    letter-spacing: 0%;
+}
+
+.random2{
+    margin-top: 60px;
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0%;
+    color: #727272;
+}
+
+button{
+    display: inline-block;
+    margin-top: 65px;
+    width: 225px;
+    height: 65px;
+    top: 494px;
+    left: 399px;
+    background: #34547A;
+}
+
+.randomtxt1{
+    font-family: Roboto;
+    font-weight: 400px;
+    font-size: 16px;
+    line-height: 164%;
+    letter-spacing: 10%;
+    text-align: center;
+    color: #FFFFFF
+} 
+
+.about{
+    font-family: Roboto;
+    font-weight: 500px;
+    font-size: 32px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: black;
+}
+
+.container{
+    width: 540px;
+    height: 147px;
+    margin-top: 112px;
+    margin-left: 690px;    
+}
+
+.randomtxt2{
+    margin-top: 50px;
+    text-align: center;
+    color: #727272;
+    font-family: Roboto;
+    font-weight: 400px;
+    font-size: 16px;
+    line-height: 164%;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.container2{
+    display: flex;
+    margin-top: 100px;
+    width: 1920px;
+    height: 250px;
+    background-color: #34547A;
+}
+
+.innercontainer{
+    width: 141px;
+    height: 50px;
+    margin-top: 100px;
+    margin-left: 409px;
+}
+
+.innercontainer2{
+    width: 141px;
+    height: 50px;
+    margin-top: 100px;
+    margin-left: 45px;
+    
+}
+
+.innercontainer3{
+    width: 141px;
+    height: 50px;
+    margin-top: 100px;
+    margin-left: 49px;
+    
+}
+
+.innercontainer4{
+    width: 141px;
+    height: 50px;
+    margin-top: 100px;
+    margin-left: 49px;
+    
+}
+
+.innercontainer5{
+    width: 141px;
+    height: 50px;
+    margin-top: 100px;
+    margin-left: 49px;
+    
+}
+
+.innercontainer6{
+    width: 141px;
+    height: 50px;
+    margin-top: 100px;
+    margin-left: 49px;
+    
+}
+
+.container3{
+    display: inline-block;
+    width: 1920px;
+    height: 1004px;
+    top: 1309px;
+    background-color: #EEEFF1;
+}
+
+.containertxt{
+    width: 540px;
+    height: 147px;
+    margin-top: 100px;
+    margin-left: 690px;
+    
+}
+
+.random3{
+    font-family: Roboto;
+    font-weight: 500px;
+    font-size: 32px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: black;
+}
+
+.random4{
+    margin-top: 50px;
+    text-align: center;
+    color: #727272;
+    font-family: Roboto;
+    font-weight: 400px;
+    font-size: 16px;
+    line-height: 164%;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.containervid{
+    display: flex;
+    width: 1110px;
+    height: 600px;
+    margin-top: 57px;
+    margin-left: 405px;
+}
+
+.startbutton{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    margin-top: 250px;
+    margin-left: 505px;
+    
+}
+
+.lastcontainer{
+    display: flex;
+    width: 1920px;
+    height: 151px;
+    top: 2313px;
+    background-color: #34547A;
+}
+
+.randomtxt4{
+    width: 219px;
+    height: 19px;
+    margin-top: 50px;
+    margin-left: 406px;
+}
+
+.randomtxt3{
+    width: 193px;
+    height: 12px;
+    margin-top: 20px;
+    margin-left: 406px;
+}
+
+.lasttxt2{
+    font-family: Roboto;
+    font-weight: 400px;
+    font-size: 13px;
+    line-height: 164%;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+}
+
+.lasttxt3{
+    font-family: Roboto;
+    font-weight: 500px;
+    font-size: 21px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+}
+
+.image12{
+    color: #000000A6;
+    opacity: 65%;
+}
